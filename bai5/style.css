@@ -1,0 +1,87 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.home{
+    display: flex;
+    font-size: 13px;
+}
+.sale{
+    display: flex;
+    margin-right: 80px;
+}
+.sale img{
+    width: 20px;
+    height: 20px;
+}
+.enterprise{
+    display: flex;
+    margin-right: 90px;
+}
+.enterprise .line2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.login{
+    display: flex;
+}
+.join{
+    margin-left: 20px;
+    color: white;
+    background-color: black;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    padding-top: 7px;
+}
+.title{
+    display: flex;
+}
+.card{
+    font-size: 100px;
+    font-weight: 600;
+    padding-top: 12px;
+}
+.image img {
+    width: 200px;
+    height: 140px;
+}
+.intro{
+    color: gray;
+    margin-bottom: 70px;
+}
+.content{
+    display: flex;
+}
+.cont{
+    display: flex;
+}
+.cont .line2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.cont img{
+    width: 40px;
+    height: 60px;
+}
+.contt{
+    margin-left: 240px;
+}
+.contt .line2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contact{
+    display: flex;
+    color: gray;
+    margin-top: 80px;
+}
+.pri{
+    display: flex;
+    margin-left: 300px;    
+}
+.term{
+    margin-left: 40px;
+}
